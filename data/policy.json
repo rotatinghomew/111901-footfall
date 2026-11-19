@@ -1,0 +1,11 @@
+{
+  "counter_mode": "countdown",
+  "counter_ceiling": 60,
+  "soft_margin": 0.85,
+  "window_minutes": 15,
+  "day_start": "08:00",
+  "closure_persistence": "forward",
+  "evidence_aggregation": "overlap",
+  "conflict_policy": "flag",
+  "max_settle_uncertainty": 40
+}
