@@ -1,0 +1,5 @@
+edge,from,to,max_flow
+e1,lobby,hall-a,12
+e2,lobby,hall-b,9
+e3,hall-a,corridor,7
+e4,hall-b,corridor,5

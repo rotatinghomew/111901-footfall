@@ -1,0 +1,13 @@
+window,zone,manual_count,closed_edges,confirmed
+w1,hall-b,2,,1
+w2,hall-a,4,,0
+w3,hall-b,6,e2,1
+w4,hall-a,8,,0
+w5,hall-b,10,,1
+w6,hall-a,12,e2,0
+w7,hall-b,14,,1
+w8,hall-a,16,,0
+w9,hall-b,18,e2,1
+w10,hall-a,20,,0
+w11,hall-b,22,,1
+w12,hall-a,24,e2,0

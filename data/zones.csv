@@ -1,0 +1,5 @@
+zone,capacity,door_limit,initial_count
+lobby,80,30,12
+hall-a,35,14,8
+hall-b,25,10,5
+corridor,20,8,3
